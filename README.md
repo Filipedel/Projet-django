@@ -2,5 +2,5 @@
 
 
 Pay attention to this "README".
-In fact, they aren't have the all project.
-I only put the views,templates(html), settings and url.
+In fact, there aren't have the all project.
+I've only put the views,templates(html), settings and url.
